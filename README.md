@@ -21,7 +21,7 @@
   </ul>
   <h2>Skills</h2>
   <ul>
-    <li>Programming: <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=Rust" alt="Rust"> <img src="https://img.shields.io/badge/-Typescript-9cf?style=flat-square&logo=Typescript" alt="Typescript"> <img src="https://img.shields.io/badge/-Python-ff69b4?style=flat-square&logo=Python" alt="Python"> <img src="https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp" alt="C#">
+    <li>Programming: <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=Rust" alt="Rust"> <img src="https://img.shields.io/badge/-Typescript-9cf?style=flat-square&logo=Typescript" alt="Typescript"> <img src="https://img.shields.io/badge/-Python-ff69b4?style=flat-square&logo=Python" alt="Python"> <img src="https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp" alt="C#"> <img src="https://img.shields.io/badge/-Java-507590?style=flat-square&logo=openjdk" alt="Java"> 
     <li>Technologies: <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular" alt="Angular"> <img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vuedotjs" alt="Vue.js"> <img src="https://img.shields.io/badge/-Microsoft%20SQL-blue?style=flat-square&logo=microsoftsqlserver" alt="Microsoft SQL"> <img src="https://img.shields.io/badge/-.NET-success?style=flat-square&logo=dotnet" alt=".NET">
   </ul>
 </div>
