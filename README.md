@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin link">
     </a>
     <a href="http://159.203.177.102">
-      <img src="https://img.shields.io/badge/-openEJ.io-success?style=for-the-badge&logo=subaru" alt="openEJ link"
+      <img src="https://img.shields.io/badge/-openEJ.io-success?style=for-the-badge&logo=subaru" alt="openEJ link">
     </a>
   </div>
   <br>
