@@ -17,7 +17,6 @@
     <li>I'm a student at Rutgers studying Computer Engineering and Computer Science.</li>
     <li>I'm currently employed as an Intern Software Developer.</li>
     <li>I built <a href="https://openej.io">openEJ.io</a> with <a href="https://github.com/W-Dominic">@W-Dominic</a>.</li>
-    <li>I enjoy learning new things and am always up for a fun challenge.</a>
   </ul>
   <h2>Skills</h2>
   <ul>
