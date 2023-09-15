@@ -4,8 +4,11 @@
     <a href="https://www.linkedin.com/in/keith-lehman-930949224/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin link">
     </a>
-    <a href="http://openej.io">
+    <a href="https://openej.io">
       <img src="https://img.shields.io/badge/-openEJ.io-success?style=for-the-badge&logo=subaru" alt="openEJ link">
+    </a>
+    <a href="https://taskius.radontech.xyz">
+      <img src="https://img.shields.io/badge/Taskius-orange?logo=task&logoColor=white&style=for-the-badge" alt="taskius link">
     </a>
   </div>
   <br>
