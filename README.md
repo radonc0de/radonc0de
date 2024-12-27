@@ -17,8 +17,8 @@
 <div id="body" align="left">
   <h2>About Me</h2>
   <ul>
-    <li>I'm a student at Rutgers studying Computer Engineering and Computer Science.</li>
-    <li>I'm currently employed as an Intern Software Engineer.</li>
+    <li>I graduated from Rutgers studying Computer Engineering and Computer Science.</li>
+    <li>I'm currently employed as a Computer Engineer at a Prop Trading Firm.</li>
     <li>I built <a href="https://openej.io">openEJ.io</a> with <a href="https://github.com/W-Dominic">@W-Dominic</a>.</li>
     <li>I'm developing <a href="https://taskius.radontech.xyz">Taskius</a> while also continuing to actively schedule using it.</li>
   </ul>
