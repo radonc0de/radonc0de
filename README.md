@@ -7,9 +7,6 @@
     <a href="https://openej.io">
       <img src="https://img.shields.io/badge/-openEJ.io-success?style=for-the-badge&logo=subaru" alt="openEJ link">
     </a>
-    <a href="https://taskius.radontech.xyz">
-      <img src="https://img.shields.io/badge/Taskius-orange?logo=task&logoColor=white&style=for-the-badge" alt="taskius link">
-    </a>
   </div>
   <br>
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.100hdwallpapers.com%2Fwallpapers%2F3840x2160%2Fmountains_lscape_minimal_4k-hd_wallpapers.jpg&f=1&nofb=1" alt="mountains" width=480 height=270>
